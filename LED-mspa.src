@@ -7,8 +7,8 @@
 #define LEDS_COUNT  77
 #define LEDS_PIN	27
 #define CHANNEL		0
-const char* ssid     = "SweetHome";
-const char* password = "Fionek2011";
+const char* ssid     = "XXXXX";
+const char* password = "XXXXX";
 const char* serverName = "http://cdn.tmep.cz/app/export/okresy-cr-teplota.json";
 unsigned long lastTime = 0;
 unsigned long timerDelay = 60000;
